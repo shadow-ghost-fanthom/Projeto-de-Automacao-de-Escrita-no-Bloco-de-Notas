@@ -32,7 +32,7 @@ while True:
 
     elif keyboard.is_pressed("f2"): # -- Quando "f2" for pressionado ele escreve a lista(Com o bloco de notas na aba claro).
         time.sleep(1)
-        pyautogui.click(x=242, y=149, duration=1)
+        pyautogui.click(x=242, y=149, duration=1) # -- Atenção: as coordenadas do clique foram configuradas para a minha resolução de tela atual
         time.sleep(1)
         for i in lista:
             pyautogui.write(i, interval=0.1)
