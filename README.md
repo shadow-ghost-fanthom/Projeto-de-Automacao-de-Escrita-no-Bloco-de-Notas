@@ -1,2 +1,2 @@
 # Projeto-de-Automa-o-de-Escrita-no-Bloco-de-Notas
-Um projeto simples feito em python onde eu automatizo a escrita de um texto no bloco de notas, serve principalmente para adicionar palavras que são repetitivas e escreve-las no bloco de notas com uma tecla.
+Script desenvolvido para automatizar a inserção de listas de textos em editores de nota. O sistema permite que o usuário defina uma lista personalizada via console e, através de teclas de atalho (Hotkeys), realize a abertura do software e a digitação automática de cada item.
